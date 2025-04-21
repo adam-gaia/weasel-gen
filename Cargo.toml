@@ -3,6 +3,7 @@ name = "weasel-gen"
 description = "Random ascii generation animation until target string is met"
 version = "0.1.0"
 edition = "2024"
+include = ["src/main.rs", "LICENSE-*", "README.md"]
 
 [[bin]]
 name = "wgen"
