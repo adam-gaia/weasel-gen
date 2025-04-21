@@ -3,6 +3,9 @@ name = "weasel-gen"
 description = "Random ascii generation animation until target string is met"
 version = "1.0.0"
 edition = "2024"
+license = "MIT OR Apache-2.0"
+homepage = "https://github.com/adam-gaia/weasel-gen"
+repository = "https://github.com/adam-gaia/weasel-gen"
 include = ["src/main.rs", "LICENSE-*", "README.md"]
 
 [[bin]]
